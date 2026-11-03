@@ -1,0 +1,6 @@
+{
+  "name": "TamizhAayvan News - Professional Advertisement Space Integration",
+  "description": "Professional Tamil digital news portal with strategic, AdSense-ready advertisement placements and comprehensive advertisement management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
